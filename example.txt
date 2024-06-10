@@ -1,0 +1,17 @@
+Hey lets commit your efforts
+untracked changes-Working Directory
+
+to send files in working in working directory they should be saved in local.
+if we want to send only example.txt then we can not do using staging area
+
+
+from working directory to staging we can select what we need to send but staging to local we need to send all 
+
+
+
+
+Working directory            |              staging area         |            Local Repository      | Remote Repository
+
+local to remote:git push
+Staging to local command is git commit
+Working to Staging is git add
