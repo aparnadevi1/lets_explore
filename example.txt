@@ -15,3 +15,6 @@ Working directory            |              staging area         |            Lo
 local to remote:git push
 Staging to local command is git commit
 Working to Staging is git add
+
+
+some changes here as well
